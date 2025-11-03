@@ -1,0 +1,501 @@
+﻿소과목,학생ID,정답여부
+algorithms,29,1
+abstract algebra,63,1
+physics I,27,1
+game theory,23,1
+linear algebra,8,1
+number theory,130,1
+game theory,51,1
+signal processing,140,1
+mathematical logic,151,1
+elementary geometry,195,1
+signal processing,109,1
+probability,56,1
+real analysis,27,1
+calculus II,92,1
+data structures,68,1
+physics I,118,1
+topology,21,1
+algorithms,159,1
+complex analysis,148,1
+calculus I,12,1
+chemistry I,75,1
+number theory,26,1
+mathematical logic,163,1
+statistics,95,1
+machine learning,69,1
+machine learning,166,1
+algorithms,44,1
+number theory,42,1
+abstract algebra,164,1
+number theory,176,1
+chemistry I,199,1
+linear algebra,81,1
+calculus I,55,1
+computer science 101,184,1
+algorithms,128,1
+algorithms,118,1
+probability,64,1
+game theory,68,1
+numerical analysis,150,1
+number theory,36,1
+calculus I,194,1
+calculus II,40,1
+machine learning,109,1
+topology,98,1
+mathematical logic,136,1
+game theory,3,1
+calculus II,175,1
+chemistry I,69,1
+real analysis,29,1
+statistics,117,1
+physics I,185,1
+optimization,196,1
+calculus II,161,1
+algorithms,130,1
+probability,96,1
+game theory,200,1
+elementary geometry,154,1
+elementary geometry,29,1
+differential equations,62,1
+computer science 101,21,1
+graph theory,18,1
+game theory,197,1
+machine learning,122,1
+statistics,68,1
+data structures,109,1
+game theory,194,1
+discrete mathematics,183,1
+machine learning,167,1
+optimization,116,1
+number theory,17,1
+computer science 101,142,1
+number theory,2,1
+algorithms,16,1
+linear algebra,85,1
+number theory,72,1
+discrete mathematics,139,1
+computer science 101,148,1
+graph theory,105,1
+calculus II,169,1
+numerical analysis,106,1
+physics I,14,1
+algorithms,26,1
+physics I,87,1
+calculus II,64,1
+game theory,115,1
+statistics,72,1
+calculus I,114,1
+game theory,26,1
+game theory,4,1
+chemistry I,61,1
+graph theory,124,1
+topology,16,1
+elementary geometry,100,1
+mathematical logic,74,1
+physics I,143,1
+graph theory,40,1
+discrete mathematics,15,1
+game theory,16,1
+linear algebra,13,1
+optimization,136,1
+optimization,21,1
+calculus I,153,1
+number theory,104,1
+computer science 101,64,1
+linear algebra,159,1
+machine learning,150,1
+real analysis,67,1
+signal processing,81,1
+topology,34,1
+differential equations,118,1
+chemistry I,19,1
+data structures,145,1
+calculus I,138,1
+abstract algebra,34,1
+calculus I,63,1
+statistics,113,1
+signal processing,78,1
+algorithms,136,1
+game theory,77,1
+calculus II,35,1
+calculus II,191,1
+abstract algebra,73,1
+signal processing,88,1
+algorithms,68,1
+abstract algebra,14,1
+numerical analysis,71,1
+real analysis,198,1
+abstract algebra,42,1
+game theory,181,1
+elementary geometry,29,1
+signal processing,39,1
+complex analysis,150,1
+numerical analysis,33,1
+complex analysis,11,1
+discrete mathematics,175,1
+calculus II,91,1
+numerical analysis,159,1
+number theory,42,1
+statistics,106,1
+physics I,86,1
+numerical analysis,172,1
+number theory,69,1
+signal processing,28,1
+linear algebra,121,1
+mathematical logic,90,1
+number theory,58,1
+discrete mathematics,103,1
+calculus I,198,0
+algorithms,131,1
+game theory,85,1
+calculus II,67,1
+abstract algebra,10,1
+numerical analysis,89,1
+real analysis,112,1
+optimization,30,1
+computer science 101,49,1
+signal processing,112,1
+game theory,176,1
+physics I,189,0
+complex analysis,111,1
+machine learning,85,1
+machine learning,32,1
+differential equations,130,1
+numerical analysis,84,1
+differential equations,142,1
+numerical analysis,171,1
+machine learning,192,1
+data structures,146,1
+game theory,1,1
+discrete mathematics,111,1
+data structures,168,1
+mathematical logic,114,1
+optimization,122,0
+physics I,44,0
+differential equations,132,1
+data structures,86,1
+chemistry I,61,1
+number theory,51,1
+linear algebra,63,1
+data structures,197,1
+numerical analysis,162,1
+signal processing,179,1
+topology,63,1
+signal processing,2,1
+chemistry I,28,1
+number theory,46,1
+signal processing,133,1
+game theory,64,1
+calculus II,117,1
+mathematical logic,171,1
+game theory,153,1
+chemistry I,114,1
+physics I,130,0
+game theory,115,1
+physics I,122,0
+chemistry I,64,1
+abstract algebra,197,1
+graph theory,161,1
+mathematical logic,20,1
+number theory,70,1
+game theory,21,1
+number theory,99,1
+signal processing,55,1
+numerical analysis,85,1
+numerical analysis,16,1
+numerical analysis,100,1
+computer science 101,179,1
+chemistry I,148,1
+elementary geometry,91,1
+topology,108,1
+physics I,140,0
+number theory,125,1
+numerical analysis,125,1
+real analysis,172,1
+topology,186,1
+mathematical logic,33,1
+game theory,7,1
+computer science 101,145,1
+calculus I,165,0
+mathematical logic,47,1
+topology,84,1
+real analysis,87,1
+topology,72,1
+numerical analysis,65,1
+graph theory,5,1
+linear algebra,90,1
+calculus I,200,0
+linear algebra,194,1
+number theory,52,1
+data structures,40,1
+graph theory,172,1
+discrete mathematics,120,1
+chemistry I,95,1
+data structures,192,1
+chemistry I,42,1
+calculus II,149,1
+differential equations,148,1
+topology,102,1
+discrete mathematics,20,1
+algorithms,63,0
+chemistry I,78,1
+data structures,31,1
+computer science 101,11,1
+numerical analysis,170,1
+optimization,166,0
+numerical analysis,126,1
+complex analysis,163,1
+mathematical logic,182,1
+statistics,188,1
+algorithms,70,0
+game theory,199,1
+numerical analysis,188,1
+real analysis,63,1
+calculus I,72,0
+number theory,193,1
+data structures,172,1
+elementary geometry,127,1
+statistics,125,0
+abstract algebra,88,1
+data structures,180,1
+game theory,3,1
+discrete mathematics,22,1
+numerical analysis,126,1
+number theory,177,1
+signal processing,126,1
+elementary geometry,24,1
+topology,178,1
+machine learning,149,1
+game theory,136,1
+physics I,141,0
+signal processing,117,1
+abstract algebra,60,1
+discrete mathematics,81,0
+game theory,196,1
+discrete mathematics,56,0
+abstract algebra,186,1
+chemistry I,135,1
+calculus II,50,1
+complex analysis,46,1
+signal processing,137,1
+linear algebra,14,1
+signal processing,33,0
+chemistry I,126,1
+elementary geometry,147,1
+graph theory,113,1
+linear algebra,65,1
+graph theory,30,1
+topology,126,1
+algorithms,176,0
+probability,145,1
+calculus I,64,0
+chemistry I,107,1
+data structures,58,1
+topology,116,1
+differential equations,151,1
+differential equations,146,1
+data structures,190,1
+chemistry I,54,1
+abstract algebra,170,1
+number theory,45,1
+statistics,1,0
+signal processing,153,0
+linear algebra,60,1
+differential equations,180,0
+calculus I,176,0
+abstract algebra,161,1
+discrete mathematics,109,0
+number theory,166,1
+abstract algebra,37,1
+statistics,79,0
+computer science 101,74,1
+mathematical logic,177,0
+topology,70,1
+graph theory,113,1
+linear algebra,111,1
+data structures,65,1
+number theory,173,1
+computer science 101,151,1
+chemistry I,173,1
+computer science 101,11,1
+statistics,121,0
+mathematical logic,72,0
+computer science 101,112,1
+graph theory,24,1
+numerical analysis,86,1
+calculus II,42,1
+signal processing,127,0
+topology,195,1
+mathematical logic,23,0
+real analysis,30,1
+topology,132,1
+elementary geometry,169,1
+mathematical logic,106,0
+optimization,93,0
+graph theory,161,1
+linear algebra,53,1
+probability,74,1
+signal processing,125,0
+algorithms,156,0
+signal processing,41,0
+elementary geometry,142,1
+number theory,30,1
+calculus II,166,1
+graph theory,184,0
+signal processing,70,0
+graph theory,121,0
+game theory,38,1
+data structures,131,1
+probability,18,0
+numerical analysis,88,1
+optimization,69,0
+differential equations,186,0
+computer science 101,149,1
+graph theory,39,0
+graph theory,89,0
+chemistry I,140,0
+real analysis,49,1
+number theory,147,1
+chemistry I,106,0
+physics I,122,0
+topology,99,1
+algorithms,39,0
+linear algebra,33,0
+computer science 101,85,1
+mathematical logic,26,0
+mathematical logic,4,0
+numerical analysis,168,1
+calculus I,121,0
+abstract algebra,87,1
+topology,167,1
+real analysis,173,1
+topology,82,0
+chemistry I,125,0
+linear algebra,159,0
+algorithms,176,0
+number theory,192,1
+calculus II,195,1
+calculus II,114,1
+differential equations,8,0
+linear algebra,76,0
+numerical analysis,38,1
+numerical analysis,145,1
+statistics,44,0
+data structures,98,1
+number theory,128,1
+probability,60,0
+abstract algebra,118,0
+elementary geometry,120,1
+machine learning,140,1
+mathematical logic,89,0
+differential equations,164,0
+signal processing,65,0
+differential equations,51,0
+graph theory,28,0
+computer science 101,92,1
+signal processing,76,0
+machine learning,102,0
+computer science 101,176,0
+linear algebra,156,0
+differential equations,199,0
+data structures,91,0
+discrete mathematics,159,0
+chemistry I,185,0
+machine learning,36,0
+algorithms,166,0
+mathematical logic,9,0
+physics I,34,0
+differential equations,84,0
+statistics,52,0
+game theory,94,1
+abstract algebra,43,0
+graph theory,76,0
+real analysis,30,0
+calculus I,37,0
+number theory,174,1
+topology,143,0
+topology,4,0
+calculus II,117,1
+physics I,173,0
+topology,164,0
+calculus II,173,0
+elementary geometry,159,1
+game theory,84,1
+number theory,166,1
+mathematical logic,180,0
+numerical analysis,30,1
+linear algebra,78,0
+calculus II,25,0
+game theory,35,1
+complex analysis,172,0
+signal processing,139,0
+physics I,187,0
+numerical analysis,168,0
+graph theory,158,0
+abstract algebra,9,0
+discrete mathematics,114,0
+number theory,93,1
+machine learning,95,0
+algorithms,92,0
+abstract algebra,49,0
+mathematical logic,24,0
+algorithms,164,0
+elementary geometry,13,1
+number theory,33,1
+discrete mathematics,18,0
+game theory,54,1
+number theory,85,0
+data structures,1,0
+probability,34,0
+statistics,29,0
+elementary geometry,34,0
+number theory,151,0
+statistics,68,0
+physics I,108,0
+physics I,17,0
+chemistry I,93,0
+calculus II,116,0
+data structures,12,0
+machine learning,134,0
+algorithms,8,0
+graph theory,103,0
+calculus II,126,0
+mathematical logic,19,0
+real analysis,156,0
+probability,71,0
+computer science 101,141,0
+topology,153,0
+mathematical logic,130,0
+calculus II,180,0
+algorithms,167,0
+game theory,185,1
+numerical analysis,116,0
+numerical analysis,87,0
+topology,107,0
+real analysis,110,0
+abstract algebra,96,0
+machine learning,122,0
+calculus I,24,0
+physics I,190,0
+probability,143,0
+game theory,144,0
+calculus II,106,0
+machine learning,193,0
+physics I,14,0
+data structures,80,0
+computer science 101,130,0
+machine learning,124,0
+calculus II,90,0
+complex analysis,30,0
+computer science 101,58,0
+game theory,197,0
+data structures,173,0
+elementary geometry,156,0
+signal processing,69,0
+abstract algebra,180,0
+real analysis,90,0
+probability,145,0
+calculus I,37,0
+elementary geometry,24,0
+discrete mathematics,97,0
